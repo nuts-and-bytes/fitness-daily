@@ -1,5 +1,5 @@
 // Eric's Fitness PWA — minimal cache-first service worker
-const CACHE = 'fit-v1';
+const CACHE = 'fit-v2';
 const PRECACHE = [
   './',
   './index.html',
